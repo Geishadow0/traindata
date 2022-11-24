@@ -1,6 +1,6 @@
 
 train: /train_data/train 
-val: train_data/val
+val: /train_data/val
 
 # Classes
 names:
