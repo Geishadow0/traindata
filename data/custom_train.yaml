@@ -1,0 +1,7 @@
+
+train: /content/drive/MyDrive/train_data/train 
+val: /content/drive/MyDrive/train_data/val
+
+# Classes
+names:
+  0: pothole
