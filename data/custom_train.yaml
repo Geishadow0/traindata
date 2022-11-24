@@ -1,6 +1,5 @@
-
-train: /train_data/train 
-val: /train_data/val
+train: /content/traindata/train_data/images/train
+val: /content/traindata/train_data/images/val
 
 # Classes
 names:
